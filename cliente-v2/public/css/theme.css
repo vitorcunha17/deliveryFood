@@ -1,0 +1,15 @@
+.uk-navbar-toggle {
+  color: rgba(255, 255, 255, 1);
+}
+
+.uk-navbar-toggle:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.uk-navbar-nav>li>a {
+  color: rgba(255, 255, 255, 1);
+}
+
+.uk-navbar-nav>li>a:hover {
+  color: rgba(255, 255, 255, 0.8);
+}

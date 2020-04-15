@@ -1,0 +1,42 @@
+#div {
+    height: 100% !important;
+}
+html, body, #root {
+    height: 100% !important;
+}
+
+.height-full {
+    height: 100% !important;
+}
+
+.modal-width {
+  width: 400px
+}
+
+.login {
+  z-index: 9999999
+}
+
+.toastify {
+  z-index: 9999999;
+}
+
+.select2 {
+  width: 100%;
+}
+
+.text-area-category {
+  min-height: "140px";
+  padding: "10px"
+}
+
+.text-area-max-width {
+  max-width: "100%";
+  min-height: "140px"
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
